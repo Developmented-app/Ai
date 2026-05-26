@@ -1,0 +1,10 @@
+{
+  "name": "AI Movie Studio & Python Code Generator",
+  "description": "កម្មវិធីកែសម្រួលវីដេអូ AI, SRT Subtitles, Speech to Text, Text to Speech (Khmer & Multilingual) និងកូដ Python PyQt6 ពេញលេញ",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "Overwrite": true,
+  "TargetFile": "/metadata.json",
+  "toolAction: 'Setting metadata info'",
+  "toolSummary: 'Metadata configuration'"
+}
